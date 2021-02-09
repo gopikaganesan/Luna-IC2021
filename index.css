@@ -76,9 +76,10 @@ span.name {
 /* iframe */
 #botframe{
   /*margin: 100px;*/
-  margin-top: 20px;
+  margin-top: 15px;
   margin-bottom: 0px;
   padding: 20px;
+  padding-bottom: 0px;
 }
 
 @media (min-width: 992px) {
